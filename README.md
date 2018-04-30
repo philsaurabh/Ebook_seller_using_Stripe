@@ -32,16 +32,9 @@ $ npm start
 ```
 
 ## App Info
-
+<a href="https://shrouded-atoll-81528.herokuapp.com/">App deployment link on Heroku</a>
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Saurabh Sharma
+(http://www.philsaurabh.wordpress.com)
 
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
