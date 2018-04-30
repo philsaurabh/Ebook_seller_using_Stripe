@@ -31,10 +31,13 @@ To serve in the browser
 $ npm start
 ```
 
-## App Info
+## App Info and link
 <a href="https://shrouded-atoll-81528.herokuapp.com/">App deployment link on Heroku</a>
 ### Author
 
-Saurabh Sharma
-(http://www.philsaurabh.wordpress.com)
+<a href="http://www.philsaurabh.wordpress.com">Saurabh Sharma</a>
 
+## Testing App
+Email- Any Card Number- 4242424242424242 MM/YY - Any CVC- Any 3 or 4 Digit
+
+Please Don't put your card details. Just fill above mentioned details.
